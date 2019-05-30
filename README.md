@@ -21,12 +21,13 @@ Editors have built-in knowledge of the programming languages and processes commo
 You will need to Fork the following Repos as your own
 ![fork.png](./_meta/fork.png)
 
-links for the following 
+links for the following repos are 
 
-repos are 
+https://github.com/BongoHive/css-introduction
 
-git@github.com:BongoHive/css-introduction-2.git
+https://git@github.com:BongoHive/css-introduction-2.git
 
-git@github.com:BongoHive/css-introduction-2.git
-git@github.com:BongoHive/css-introduction-3.git
-git@github.com:BongoHive/css-introduction-4.git
+https://git@github.com:BongoHive/css-introduction-3.git
+
+https://git@github.com:BongoHive/css-introduction-4.git
+

@@ -1,8 +1,30 @@
 # **introduction to css**
 
-## Download and Install
+# prerequisites
 
-### setup and tools
+- ## Not giving up easily
+
+- ## Basic understanding of html
+
+- ## github and git 
+
+### Before we start
+
+## Wait what's is css 
+
+### Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+### Because of the heading we will only be covering css part
+
+# resources
+
+https://www.w3schools.com/whatis/whatis_css.asp
+
+
+
+# bonus points if you are able to do the following 
+
+## Download and Install
 
 In order to make changes in the following files, you need a code editor. pick any from the list below
 
@@ -25,9 +47,18 @@ links for the following repos are
 
 https://github.com/BongoHive/css-introduction
 
-https://git@github.com:BongoHive/css-introduction-2.git
+https://github.com/BongoHive/css-introduction-2
 
-https://git@github.com:BongoHive/css-introduction-3.git
+https://github.com/BongoHive/css-introduction-3
 
-https://git@github.com:BongoHive/css-introduction-4.git
+https://github.com/BongoHive/css-introduction-4
 
+After this we can start making changes on the following files
+
+```bash
+
+index.html 
+/css/main.css
+/images/
+
+```

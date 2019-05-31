@@ -4,17 +4,17 @@
 
 - ## Not giving up easily
 
-- ## Basic understanding of html
+- ## Basic understanding of HTML
 
-- ## github and git
+- ## GitHub and git
 
 ### Before we start
 
-## Wait what's is css
+## Wait what's is CSS
 
 ### Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
-### Because of the heading we will only be covering css
+### Because of the heading we will only be covering CSS
 
 ## Download and Install
 
@@ -35,9 +35,9 @@ Editors have built-in knowledge of the programming languages and processes commo
 
 ##  After the installation of the above.
 
-### We can start making changes on the following files and see your css and html page come to life
+### We can start making changes on the following files and see your CSS and HTML page come to life
 
-### Keep in mind the html, css will keep changing as you keep progressing For each lesson As we will cover different topics.
+### Keep in mind the HTML, CSS will keep changing as you keep progressing For each lesson As we will cover different topics.
 
 ```
 
@@ -76,20 +76,20 @@ eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi,
 tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
 
 ```
-## Save changes and open you index.html file in the browser
+## Save changes and open your index.html file in the browser
 
 
-### nicely done time to effect change with css 
+### nicely done time to effect change with CSS 
  
 ## HTML/CSS linking
-### notic how your page show up as just plan text!! This means your css in not linked to your html
+### notice how your page shows up as just plan text!! This means your CSS in not linked to your HTML
 
 
 # Linking HTML/CSS 
-#### We know we have a foler and a file called main.css that html needs to know about  
+#### We know we have a folder and a file called main.css that HTML needs to know about  
 
 
-### This can easily be achieved through the use of the html link element, but it can be hard to get your head around at first. In the header section, add in:
+### This can easily be achieved through the use of the HTML link element, but it can be hard to get your head around at first. In the header section, add in:
 
 ```
 <head>
@@ -99,7 +99,7 @@ tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
 </head>
 
 ```
-### refresh your page and you backgroung should be blue
+### refresh your page and your background should be blue
 
 
 ## Classes
@@ -134,7 +134,7 @@ In your css add in
 
 # conclusion
 
-### You are now able link files and make reference to them. 
+### You are now able to link files and make reference to them. 
 
 ## Next class
 

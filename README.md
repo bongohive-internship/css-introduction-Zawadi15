@@ -1,6 +1,6 @@
-# **Introduction to css**
+# Introduction to css
 
-# prerequisites
+## prerequisites
 
 - Not giving up easily
 

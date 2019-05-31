@@ -2,15 +2,15 @@
 
 # prerequisites
 
-- ## Not giving up easily
+- Not giving up easily
 
-- ## Basic understanding of HTML
+- Basic understanding of HTML
 
-- ## GitHub and git
+- GitHub and git
 
 ### Before we start
 
-## Wait what's is CSS
+**Wait what's is CSS**
 
 > Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
